@@ -1,0 +1,8 @@
+parola = input("parola belirleyiniz:")
+
+if "a" in parola:
+print("a harfi kullanmayın!")
+if "b" in parola:
+ print("b harfi kullanmayın!")
+ if "c" in parola:
+ print("c harfi kullanamayın!")

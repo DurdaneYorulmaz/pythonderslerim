@@ -1,0 +1,1 @@
+print("Rocket\U0001F680")
