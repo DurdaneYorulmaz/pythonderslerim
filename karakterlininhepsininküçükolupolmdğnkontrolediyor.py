@@ -1,0 +1,1 @@
+print("bunların hepsi küçük".islower())
